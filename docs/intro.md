@@ -6,6 +6,21 @@ sidebar_position: 1
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
+---
+
+#### :speech_balloon: Ha nincs több kiírandó adat, akkor a `sep` paraméter használata értelmetlen!
+
+---
+
+:::info Fontos
+
+Megjegyzés:  
+
+- Egy
+- Kettő
+
+:::
+
 ## Getting Started
 
 Get started by **creating a new site**.
